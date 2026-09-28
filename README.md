@@ -10,6 +10,8 @@ SITRA is not intended to be just a robot.
 
 It is a living AI learning platform where students can learn modern AI and robotics by building, deploying, testing, and improving a real machine that operates on campus.
 
+![SITRA robot](final-product.jpeg)
+
 ⸻
 
 🎯 Vision
